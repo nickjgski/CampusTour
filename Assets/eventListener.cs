@@ -5,6 +5,7 @@ using UnityEngine;
 public class eventListener : MonoBehaviour
 {
     private Renderer _renderer;
+    public Material mat;
     
     // Start is called before the first frame update
     void Start()
@@ -20,7 +21,7 @@ public class eventListener : MonoBehaviour
 
     public void OnExit()
     {
-        _renderer.material.color = Color.white;
+        _renderer.material = mat;
     }
 
     public void onGrab()

@@ -8,4 +8,70 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/D2Lawn.unity
+    guid: abf2c8d5424bd474bb89967cf67a0916
+  - enabled: 1
+    path: Assets/Scenes/Pritchard.unity
+    guid: a8330a20521248548bcf770c7c68c39f
+  - enabled: 1
+    path: Assets/Scenes/Burruss.unity
+    guid: 68422ad81b50b9f4ebe233fb90333158
+  - enabled: 1
+    path: Assets/Scenes/DietrickWestEnd.unity
+    guid: bbe9b7b9c5dee5e439a510d39f3f6325
+  - enabled: 1
+    path: Assets/Scenes/Drillfield.unity
+    guid: b0ccf148adaac354ba3b4b3e043f1b02
+  - enabled: 1
+    path: Assets/Scenes/DrillfieldWest.unity
+    guid: 583b05ab843ce814884b4babd2f057cf
+  - enabled: 1
+    path: Assets/Scenes/DuckPond.unity
+    guid: 0c1d1a035fc4c9f4aa24e01b2918a35c
+  - enabled: 1
+    path: Assets/Scenes/Hahn.unity
+    guid: fc89f6c0075f4c64dbdec9b48e630930
+  - enabled: 1
+    path: Assets/Scenes/Hancock.unity
+    guid: ce4901e558f060c458689c0bc21d0021
+  - enabled: 1
+    path: Assets/Scenes/Lavery.unity
+    guid: c34519c708f664241930151ef6734620
+  - enabled: 1
+    path: Assets/Scenes/Library.unity
+    guid: c191d889d2140684384d39001f860c9f
+  - enabled: 1
+    path: Assets/Scenes/McBryde.unity
+    guid: bb6b633ac76c0be4e9c558f4b634fd04
+  - enabled: 1
+    path: Assets/Scenes/McComas.unity
+    guid: 7ef247aef61ce1c42967efbf78c9ecd2
+  - enabled: 1
+    path: Assets/Scenes/NCB.unity
+    guid: b06989b14ea42494b93a9e1ed0c158e1
+  - enabled: 1
+    path: Assets/Scenes/NewResEast.unity
+    guid: 21812d740b82922409c0c3614a6898c9
+  - enabled: 1
+    path: Assets/Scenes/Owens.unity
+    guid: b34490b599e06ad49bb0cd6f5d1d2ecf
+  - enabled: 1
+    path: Assets/Scenes/Pylons.unity
+    guid: 4fef58b9020cb8449b82590044ba882d
+  - enabled: 1
+    path: Assets/Scenes/Pyramids.unity
+    guid: d95a4cf3637abdd4c8e7ef2a4ca267d7
+  - enabled: 1
+    path: Assets/Scenes/Squires.unity
+    guid: d5244425a5b03dd4698d6b0c1f550f28
+  - enabled: 1
+    path: Assets/Scenes/TorgMcBryde.unity
+    guid: 3f7a42bfb04b02c4ba91a1b911214b83
+  - enabled: 1
+    path: Assets/Scenes/WestAJ.unity
+    guid: dda3e0a18098baf46a50f0348f779ea3
+  - enabled: 1
+    path: Assets/Scenes/WestEnd.unity
+    guid: ede80d5cd3f8ab94e9dca1fa991cfb14
   m_configObjects: {}
