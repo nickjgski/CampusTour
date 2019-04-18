@@ -260,7 +260,7 @@ PrefabInstance:
     - target: {fileID: 3911280762497687442, guid: 84e488b12f0b6864f9eb63d83d47c312,
         type: 3}
       propertyPath: m_Name
-      value: ButtonSphere
+      value: PylonsButtonSphere
       objectReference: {fileID: 0}
     - target: {fileID: 3911280762497687432, guid: 84e488b12f0b6864f9eb63d83d47c312,
         type: 3}
@@ -334,7 +334,7 @@ PrefabInstance:
     - target: {fileID: 3911280762497687442, guid: 84e488b12f0b6864f9eb63d83d47c312,
         type: 3}
       propertyPath: m_Name
-      value: ButtonSphere (1)
+      value: SquiresButtonSphere
       objectReference: {fileID: 0}
     - target: {fileID: 3911280762497687432, guid: 84e488b12f0b6864f9eb63d83d47c312,
         type: 3}
