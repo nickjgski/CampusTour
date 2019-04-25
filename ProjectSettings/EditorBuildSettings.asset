@@ -36,9 +36,6 @@ EditorBuildSettings:
     path: Assets/Scenes/EngDrill.unity
     guid: fdf5e46ca2908af4b9e99059da336d06
   - enabled: 1
-    path: Assets/Scenes/HahnWCampus.unity
-    guid: fc89f6c0075f4c64dbdec9b48e630930
-  - enabled: 1
     path: Assets/Scenes/Hancock.unity
     guid: ce4901e558f060c458689c0bc21d0021
   - enabled: 1
@@ -74,9 +71,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Pyramids.unity
     guid: d95a4cf3637abdd4c8e7ef2a4ca267d7
-  - enabled: 1
-    path: Assets/Scenes/TorgMcBryde.unity
-    guid: 3f7a42bfb04b02c4ba91a1b911214b83
   - enabled: 1
     path: Assets/Scenes/Squires.unity
     guid: d5244425a5b03dd4698d6b0c1f550f28
