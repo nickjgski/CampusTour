@@ -8,94 +8,127 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/VisitorCenter.unity
     guid: 455848cb3d80d33418aac6fc88810438
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/D2Lawn.unity
     guid: abf2c8d5424bd474bb89967cf67a0916
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/DietrickWestEnd.unity
     guid: bbe9b7b9c5dee5e439a510d39f3f6325
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Pritchard.unity
     guid: a8330a20521248548bcf770c7c68c39f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Burruss.unity
     guid: 68422ad81b50b9f4ebe233fb90333158
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/GenDrill.unity
     guid: b0ccf148adaac354ba3b4b3e043f1b02
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/DrillfieldWest.unity
     guid: 583b05ab843ce814884b4babd2f057cf
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/DuckPond.unity
     guid: 0c1d1a035fc4c9f4aa24e01b2918a35c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/EngDrill.unity
     guid: fdf5e46ca2908af4b9e99059da336d06
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Hancock.unity
     guid: ce4901e558f060c458689c0bc21d0021
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Lavery.unity
     guid: c34519c708f664241930151ef6734620
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Library.unity
     guid: c191d889d2140684384d39001f860c9f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/McBryde.unity
     guid: bb6b633ac76c0be4e9c558f4b634fd04
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/McComas.unity
     guid: 7ef247aef61ce1c42967efbf78c9ecd2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/EngineFront.unity
     guid: 7eb9f52ba5fa6014e847f77637b04666
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/NCB.unity
     guid: b06989b14ea42494b93a9e1ed0c158e1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/NewResEast.unity
     guid: 21812d740b82922409c0c3614a6898c9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Owens.unity
     guid: b34490b599e06ad49bb0cd6f5d1d2ecf
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Pylons.unity
     guid: 4fef58b9020cb8449b82590044ba882d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/TRECLab.unity
     guid: c959fac15f9b91f419f2094f7f5a3878
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Pyramids.unity
     guid: d95a4cf3637abdd4c8e7ef2a4ca267d7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Squires.unity
     guid: d5244425a5b03dd4698d6b0c1f550f28
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/WestAJ.unity
     guid: dda3e0a18098baf46a50f0348f779ea3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/WestEnd.unity
     guid: ede80d5cd3f8ab94e9dca1fa991cfb14
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/EngineSide.unity
     guid: 9b12e7cd2f13b3a4a829c9f65344bf90
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/GoodwinMain.unity
     guid: 39c7b90aa9455f94c9a217793186c632
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/GoodwinOut.unity
     guid: d16fc52507364da41a2d847ec7670511
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/HahnIn.unity
     guid: 85354cfa3988c544db1117201b43c79b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/KellyWare.unity
     guid: 5b1a45a7d40ac5f449a28e2371c99266
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/HahnOut.unity
     guid: 97a806668d627724d89057ff9817ff3a
+  - enabled: 1
+    path: Assets/Scenes/ICATVC.unity
+    guid: 2236cb0df3395184481e938acb544e41
+  - enabled: 1
+    path: Assets/Scenes/ICATBurruss.unity
+    guid: 15049c38a9f0e8e4d9271d21673e8e5a
+  - enabled: 1
+    path: Assets/Scenes/ICATGood.unity
+    guid: 1db98b8a7ed6e8f4fa92816bc6b05544
+  - enabled: 1
+    path: Assets/Scenes/ICATD2.unity
+    guid: 929aa65be6675a34a9ce2a129e4000d1
+  - enabled: 1
+    path: Assets/Scenes/ICATDrill.unity
+    guid: 168a74fedd536e84fa6293f587e9ee43
+  - enabled: 1
+    path: Assets/Scenes/ICATLibrary.unity
+    guid: ef8ca266bf412804ea35b232f201b0a2
+  - enabled: 1
+    path: Assets/Scenes/ICATNCB.unity
+    guid: cc296adb1538b3f4592e2aff211719d9
+  - enabled: 1
+    path: Assets/Scenes/ICATOwens.unity
+    guid: ae5cd7ae846d7a042b3fe8c31c5c9d24
+  - enabled: 1
+    path: Assets/Scenes/ICATSquires.unity
+    guid: 25e91cdcf55dcd54ab76f9071bbc787f
+  - enabled: 1
+    path: Assets/Scenes/ICATTurner.unity
+    guid: 539aa247165c0de418c4457501ac0482
+  - enabled: 1
+    path: Assets/Scenes/ICATTurnerIn.unity
+    guid: ff693580f47a3b948b6ff57b47893546
   m_configObjects: {}
