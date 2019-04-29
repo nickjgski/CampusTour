@@ -12,11 +12,12 @@ public class AudioScript : MonoBehaviour
     void Start()
     {
         narrationSource.clip = narrationClip;
+        narrationSource.PlayDelayed(delay);
     }
 
     // Update is called once per frame
     void Update()
     {
-        narrationSource.PlayDelayed(delay);
+
     }
 }
