@@ -62,9 +62,6 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Owens.unity
     guid: b34490b599e06ad49bb0cd6f5d1d2ecf
-  - enabled: 1
-    path: Assets/Scenes/Pylons.unity
-    guid: 4fef58b9020cb8449b82590044ba882d
   - enabled: 0
     path: Assets/Scenes/TRECLab.unity
     guid: c959fac15f9b91f419f2094f7f5a3878
@@ -101,6 +98,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ICATVC.unity
     guid: 2236cb0df3395184481e938acb544e41
+  - enabled: 1
+    path: Assets/Scenes/Pylons.unity
+    guid: 4fef58b9020cb8449b82590044ba882d
   - enabled: 1
     path: Assets/Scenes/ICATBurruss.unity
     guid: 15049c38a9f0e8e4d9271d21673e8e5a
