@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd0b7c05be4ac45468d6e5438f5c89d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scene: VisitorCenter
+  scene: ICATVC
   loadToColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &8992891597964046998
 MonoBehaviour:
@@ -197,7 +197,7 @@ PrefabInstance:
     - target: {fileID: 8594621682696670240, guid: 4acd149da80e0264cbfcee535bce9c21,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.6
+      value: -2
       objectReference: {fileID: 0}
     - target: {fileID: 8594621682696670240, guid: 4acd149da80e0264cbfcee535bce9c21,
         type: 3}
